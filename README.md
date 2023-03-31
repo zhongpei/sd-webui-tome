@@ -2,7 +2,7 @@
 
 Extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
-**Important**: Follow the installation guide to install `tomesd` first here: https://github.com/dbolya/tomesd#installation (this may change so I am not making it part of the extension install)
+**Important**: Follow the installation guide to install `tomesd` first here: https://github.com/dbolya/tomesd#installation (I will make this process automatic [once the package is published to pip](https://github.com/dbolya/tomesd/issues/3))
 
 Needs to be enabled in settings *before* loading the model.
 
