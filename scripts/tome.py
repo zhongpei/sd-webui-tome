@@ -34,7 +34,7 @@ def on_model_loaded(sd_model):
 			return
 
 def on_ui_settings():
-	section = ('token_merging', 'Token Merging')
+	section = ('token_merging', 'Token Merging(tomesd)')
 	shared.opts.add_option('token_merging_enabled', shared.OptionInfo(
 		False, 'Enable Token Merging', section=section
 	))
